@@ -13,7 +13,7 @@ $ pkg install python
 
 $ pkg install python2
 
-$ git clone https://github.com/Ranajit199/WEB-INFO
+$ git clone https://github.com/Ranajit199/WEB-INFO-
 
 $ cd WEB-INFO
 
