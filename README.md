@@ -9,3 +9,18 @@ $ apt-get upgrade
 
 $ pkg install git
 
+$ pkg install python
+
+$ pkg install python2
+
+$ git clone https://github.com/Ranajit199/WEB-INFO
+
+$ cd WEB-INFO
+
+$ chmod +x *
+
+$ python2 WEB-INFO.sh
+
+
+### This is a powerful Python script ... let me know in the comments if you have any problems with the tool
+
