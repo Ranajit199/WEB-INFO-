@@ -19,7 +19,7 @@ $ cd WEB-INFO
 
 $ chmod +x *
 
-$ python2 WEB-INFO.sh
+$ python2 web-info.sh
 
 
 ### This is a powerful Python script ... let me know in the comments if you have any problems with the tool
