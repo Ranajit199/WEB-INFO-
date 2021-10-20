@@ -1,7 +1,6 @@
 # WEB-INFO-
 This tool can be used to extract information from any website
 
-
 ![This is an image](https://images.app.goo.gl/LsWkX1GDmndVsTF56)
 
 
